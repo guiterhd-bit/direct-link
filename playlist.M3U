@@ -2,26 +2,32 @@
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv1.png" , VTV1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
 https://vtvgolive-ssaimh.vtvdigital.vn/x-vwRiSaPHyED0vNjN4NoQ/1780986508/manifest/vtv1/playlist_720p.m3u8
+
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv2.png" , VTV2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
 https://vtvgolive-ssaimh.vtvdigital.vn/TE4ZgSZlYUzpLOlPwpncfg/1780986551/manifest/vtv2/playlist_720p.m3u8
+
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv3.png" , VTV3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-https://live-a.fptplay53.net/live/media/VTV3HD/live_hls_avc/VTV3HD-avc1_3800000=10000-mp4a_131600=20000.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/lRIDoIOS0EFAyPBhN7GLrw/1780987648/manifest/vtv3/master.m3u8
+
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv4.png" , VTV4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist_b4200000.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/qfxy6C2xhFQ9ugeZECExVw/1780987686/manifest/vtv4/master.m3u8
+
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv5.png" , VTV5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-https://live-a.fptplay53.net/live/media/VTV5HD/live_hls_avc/VTV5HD-avc1_3800000=10000-mp4a_131600=20000.m3u8
-#https://vpsttt.vietanhtv.top/tv360/tv360.php?id=110
+https://vtvgolive-ssaimh.vtvdigital.vn/LyygZhGrQguppdHOwq0gbQ/1780987212/manifest/vtv5/master.m3u8
+
 #EXTINF:-1 tvg-id="vtv6" group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/08/08/178088041953/212d026a8523_640_360.png" , VTV6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=10043
+https://vtvgolive-ssaimh.vtvdigital.vn/vdHEVr48sveN6oPzK9hbZA/1780987719/manifest/vtv6tt/master.m3u8
+
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv7.png" , VTV7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
 https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
 #https://vpsttt.vietanhtv.top/tv360/tv360.php?id=6
+
 #EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv8.png" , VTV8 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
 https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
