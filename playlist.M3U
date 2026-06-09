@@ -210,7 +210,7 @@ https://cdnet-cdn-01.onsports.vn/onplus/THETHAO_TINTUC_HD/manifest.mpd
 https://cdnet-cdn-01.onsports.vn/onplus/THETHAO_GOLF_HD/manifest.mpd
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab" tvg-logo="https://vietanhtv.id.vn/logo/viegiaitri.png", ON Vie Giải Trí
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://ec05-pop4-hlc.tv360.vn/bpk-token/wq3f26gwkzvxqevrw6z3kns5pc2dmxly/bpk-tv/211/output/211-audio_208000_eng_iv_5=206000-video_iv_5=5256400.m3u8
+https://ec05-pop4-hlc.tv360.vn/bpk-token/kluben65hestp7bqil6vh2asg5joqerx/bpk-tv/211/output/211-audio_208000_eng_iv_5=206000-video_iv_5=5256400.m3u8
 #EXTINF:-1 tvg-id="onphimviet" group-title="VTVcab" tvg-logo="https://vietanhtv.id.vn/logo/onphimviet.png", ON Phim Việt
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=175
