@@ -147,18 +147,12 @@ https://vpsttt.vietanhtv.top/vieon/vieon.php?id=vie-channel-htv2-hd
 #EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="https://vietanhtv.id.vn/logo/htv3.png", HTV3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
 https://vpsttt.vietanhtv.top/htv/htv.php?id=2535
-
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/htv4.png" group-title="HTV",HTV4
-https://pop2-ec3-ateme.tv360.vn/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgxMDQxNDc4Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy80NDM0NDMvSExTX0NsZWFuX01ITF80cy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjI1MzAzZDY3ZjE2OWJjOTMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE3Mi4yNC4xNjguMTY0Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiIxMiIsInNvdXJjZXMiOlsxOTgsNDYyLDQ2NSw0NjldfQ==.X5TvtSWICMSvAsRRr9jq5zDLKB6EeWxz25-ON67kjesg-NHZnmPAkGFGPXRyJlH6MKVob1g9xWgnvPyUhp2DCg==/live/eds/443443/HLS_Clean_MHL_4s/443443-avc1_5100000=10003-mp4a_214800=20000.m3u8
-#EXTINF:-1 tvg-id="htv5" group-title="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/HTV5_Bchannel.png", HTV5 - B Channel
-https://ec01-pop4-hlc.tv360.vn/bpk-token/hbf64n2gctmdo2hvap6dss7og44ex3rx/bpk-tv/246/output/index.m3u8?bkm-query&auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.ewogICJleHAiOjE3ODEwMzg5ODAsCiAgImlzcyI6ImJrbSIsCiAgInZlciI6IjEuMCIsCiAgImlhdCI6MTc4MTAxNzI2MSwKICAic3IiOnsKICAgICAidmVyIjoiMi4wIiwKICAgICAic25hIjoiMjQ2X0hMUyIsCiAgICAgInBuYSI6IlZpZXR0ZWwiLAogICAgICJybmEiOiIiLAogICAgICJwbiI6IlBPUC1ITi1QT1A0IiwKICAgICAiZW4iOiJFREdFLUhOLVBPUDQiLAogICAgICJjYyI6IlZOIiwKICAgICAicmMiOiJITiIsCiAgICAgImFjbiI6IkNPUkUtSE4tUE9QNCIsCiAgICAgImlzcCI6IkZQVCBUZWxlY29tIiwKICAgICAiYXNuIjoiMTg0MDMiLAogICAgICJ2cyI6IkJLUzQwMC1QT1A0LTAxXzE3Mi4yNC4xNy4xMDA6MjAwMDAiLAogICAgICJudCI6Ik9UVCIsCiAgICAgInR0cCI6MCwKICAgICAicGxpZCI6IiIsCiAgICAgInB1aWQiOiIiLAogICAgICJ0ZWlkIjoiIgogIH0sCiAgIm90Ijp7CiAgICAgInRzIjoxNzgxMDE3MjYxLAogICAgICJ1cmwiOiIvYnBrLXR2LzI0Ni9vdXRwdXQvaW5kZXgubTN1OD9taW5yYXRlPTAmbWF4cmF0ZT0xMDAwMDAwMCIsCiAgICAgInRvayI6ImhiZjY0bjJnY3RtZG8yaHZhcDZkc3M3b2c0NGV4M3J4IiwKICAgICAiZXh0IjoiIiwKICAgICAiY2lwIjoiNDIuMTE3LjI3LjI4IiwKICAgICAiY2hrIjogZmFsc2UsCiAgICAgInN0dCI6Ik5PIiwKICAgICAiZHNjcCI6MCwKICAgICAic3YiOnsKICAgICAgICAiaWQiOiIyNDZfSExTIiwKICAgICAgICAidHlwIjoiTElWRSIKICAgICB9LAogICAgICJ0byI6ewogICAgICAgIAogICAgICAgICAKICAgICAgICAic3UiOjAsCiAgICAgICAgInJjIjoxNTAKICAgICB9LAogICAgICJsYXkiOiB7CiAgICAgICJsc3QiOltdLAogICAgICAibWF4IjoxMDAwMDAwMCwKICAgICAgIm1pbiI6MAogICAgIH0sCiAgICAgInJzaCI6MCwKICAgICAicnNocCI6MTAwLAogICAgICJvYmYiOmZhbHNlLAogICAgICJ0YWdzIjp7fQogIH0KfQ.Ytpe_O7qAzIP6beFUP9Xk1_NyrUe4e2tx8ngtmfw7_k
 #EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://vietanhtv.id.vn/logo/htv7.png", HTV7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
 https://vpsttt.vietanhtv.top/htv/htv.php?id=256
 #EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://vietanhtv.id.vn/logo/htv9.png", HTV9 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
 https://vpsttt.vietanhtv.top/htv/htv.php?id=2667
-
 #EXTINF:-1 tvg-logo="https://img-ali1.tv360.vn/image1/2023/04/03/16/1680514594557/ab2557f0b015_640_360.png" group-title="HTV",HTV Thể Thao
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_23/1600823449894/0834e6a36f71_640_360.png" group-title="HTV",HTVC Ca Nhạc
@@ -175,6 +169,8 @@ https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_23/160082344024/e0032bc647da_640_360.png" group-title="HTV",HTVC Thuần Việt
 https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+
+https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="onsports" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/_ports_ng_logo_04202212.jpg", ON SPORTS 
 #KODIPROP:inputstream=inputstream.adaptive 
