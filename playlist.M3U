@@ -2,7 +2,6 @@
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"s14Sp1pCpvkYRyOpD/QtnA","kid":"7nkVVk10OdCb01Vv/MyHpA"}],"type":"temporary"}
 https://proxy.manchesterunitedfanclubvietnam.workers.dev/ch/tsn3/manifest.mpd
 
 #EXTINF:-1 tvg-id="vtv3hd" group-title="World Cup 2026" tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-world-cup-2026.9737ad74.png" , VTV3 HD
