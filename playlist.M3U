@@ -1,13 +1,13 @@
-#EXTINF:-1 tvg-id="vtv3hd" group-title="Worl Cup 2026" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv3.png" , VTV3 HD ( Độ Trễ Thấp 2 )
+#EXTINF:-1 tvg-id="vtv3hd" group-title="Worl Cup 2026" tvg-logo="https://tse4.mm.bing.net/th/id/OIF.qPQKU8vUEkg3TxngpVuozg?cb=thfvnextfalcon2&rs=1&pid=ImgDetMain&o=7&rm=3" , VTV3 HD ( Độ Trễ Thấp 2 )
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
 http://42.1.99.192:8080/live/vtv3.flv
-#EXTINF:-1 tvg-id="vtv6" group-title="Worl Cup 2026" tvg-logo="https://image1.vnmedia.xyz/logo/vtv6hd.png" , VTV6 ( Độ Trễ Thấp 2 )
+#EXTINF:-1 tvg-id="vtv6" group-title="Worl Cup 2026" tvg-logo="https://tse4.mm.bing.net/th/id/OIF.qPQKU8vUEkg3TxngpVuozg?cb=thfvnextfalcon2&rs=1&pid=ImgDetMain&o=7&rm=3" , VTV6 ( Độ Trễ Thấp 2 )
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
 http://42.1.99.192:8080/live/vtv6.flv
-#EXTINF:-1 tvg-id="vtv9hd" group-title="Worl Cup 2026" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv9.png" , VTV9 HD ( Độ Trễ Thấp 2 )
+#EXTINF:-1 tvg-id="vtv9hd" group-title="Worl Cup 2026" tvg-logo="https://tse4.mm.bing.net/th/id/OIF.qPQKU8vUEkg3TxngpVuozg?cb=thfvnextfalcon2&rs=1&pid=ImgDetMain&o=7&rm=3" , VTV9 HD ( Độ Trễ Thấp 2 )
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
 http://42.1.99.192:8080/live/vtv9.flv
-#EXTINF:-1 tvg-id="vtv10" group-title="Worl Cup 2026" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv10.png" , VTV10 HD ( Độ Trễ Thấp 2 )
+#EXTINF:-1 tvg-id="vtv10" group-title="Worl Cup 2026" tvg-logo="https://tse4.mm.bing.net/th/id/OIF.qPQKU8vUEkg3TxngpVuozg?cb=thfvnextfalcon2&rs=1&pid=ImgDetMain&o=7&rm=3" , VTV10 HD ( Độ Trễ Thấp 2 )
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
 http://42.1.99.192:8080/live/vtv10.flv
 
