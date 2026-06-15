@@ -74,8 +74,7 @@ https://live.thvli.vn/thvl1/thvli-drm/thvl1-480p/chunks.m3u8?app=141214&sig=eyJh
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/MsHdGNZ.png",TH Vĩnh Long 2
 https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/44c1Yoz.png",TH Vĩnh Long 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://blvbatman.dpdns.org/kenh/thvl3.m3u8
+https://live.thvli.vn/thvl3/thvli-drm/thvl3-480p/chunks.m3u8?app=141214&sig=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2ZXIiOjIsInVpZCI6IjZiOTc4ZDFhLWY5NjUtNGZjYy05MmY0LWU0MTBmYThiYjhkNiIsImFwcCI6MTQxMjE0LCJkZXYiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTQ5LjAuMC4wIFNhZmFyaS81MzcuMzYiLCJjaXAiOiIxLjU1LjIzOC43NyIsInBsYSI6IndlYiIsImlhdCI6MTc4MTQ4ODI1M30.x6NlIH2q8sxbEZVunukAqi00dhOj_5PDIW4O8e-ixhU
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/JWDsJxB.png",TH Vĩnh Long 4
 https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="http://static3.thvli.vn/assets/thumbnail/2025/08/28/gb1vfh5n_buttonchanels_thvl_2025_sua-1.png",TH Vĩnh Long 5
