@@ -10,6 +10,12 @@ http://42.1.99.192:8080/live/vtv9.flv
 #EXTINF:-1 tvg-id="vtv10" group-title="Worl Cup 2026" tvg-logo="https://tse4.mm.bing.net/th/id/OIF.qPQKU8vUEkg3TxngpVuozg?cb=thfvnextfalcon2&rs=1&pid=ImgDetMain&o=7&rm=3" , VTV10 HD ( Độ Trễ Thấp 2 )
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
 http://42.1.99.192:8080/live/vtv10.flv
+#EXTINF:-1 tvg-id="onfootball" group-title="VTVcab" tvg-logo="https://tse4.mm.bing.net/th/id/OIF.qPQKU8vUEkg3TxngpVuozg?cb=thfvnextfalcon2&rs=1&pid=ImgDetMain&o=7&rm=3", ON FOOTBALL 
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://vpsttt.vietanhtv.top/tv/key.php?id=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10 
+https://cdnet-cdn-01.onsports.vn/onplus/BONGDA_HD/manifest.mpd
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv1.png" , VTV1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
