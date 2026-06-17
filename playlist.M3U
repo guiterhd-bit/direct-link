@@ -10,9 +10,6 @@ http://42.1.99.192:8080/live/vtv6.flv
 #EXTINF:-1 tvg-id="vtv7" group-title="FIFA WORLD CUP 2026" tvg-logo="https://thfvnext.bing.com/th?id=OIF.aDR7e4QiC%2bZptXmtKEyIFQ&w=201&h=310&c=7&r=0&o=7&cb=thfvnextfalcon2&pid=1.7&rm=3" , VTV7 HD ( Độ Trễ Thấp 2 )
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
 http://42.1.99.192:8080/live/vtv7.flv
-#EXTINF:-1 tvg-id="vtv9" group-title="FIFA WORLD CUP 2026" tvg-logo="https://thfvnext.bing.com/th?id=OIF.aDR7e4QiC%2bZptXmtKEyIFQ&w=201&h=310&c=7&r=0&o=7&cb=thfvnextfalcon2&pid=1.7&rm=3" , VTV9 HD ( Độ Trễ Thấp 2 )
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://42.1.99.192:8080/live/vtv9.flv
 #EXTINF:-1 tvg-id="vtv10" group-title="FIFA WORLD CUP 2026" tvg-logo="https://thfvnext.bing.com/th?id=OIF.aDR7e4QiC%2bZptXmtKEyIFQ&w=201&h=310&c=7&r=0&o=7&cb=thfvnextfalcon2&pid=1.7&rm=3" , VTV10 HD ( Độ Trễ Thấp 2 )
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
 http://42.1.99.192:8080/live/vtv10.flv
