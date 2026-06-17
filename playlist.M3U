@@ -13,18 +13,6 @@ http://42.1.99.192:8080/live/vtv7.flv
 #EXTINF:-1 tvg-id="vtv10" group-title="FIFA WORLD CUP 2026" tvg-logo="https://thfvnext.bing.com/th?id=OIF.aDR7e4QiC%2bZptXmtKEyIFQ&w=201&h=310&c=7&r=0&o=7&cb=thfvnextfalcon2&pid=1.7&rm=3" , VTV10 HD ( Độ Trễ Thấp 2 )
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
 http://42.1.99.192:8080/live/vtv10.flv
-#EXTINF:-1 tvg-id="m6" group-title="FIFA WORLD CUP 2026" tvg-logo="https://thfvnext.bing.com/th?id=OIF.aDR7e4QiC%2bZptXmtKEyIFQ&w=201&h=310&c=7&r=0&o=7&cb=thfvnextfalcon2&pid=1.7&rm=3" , M6 4K
-http://185.160.192.64/live/DAE54374785/DAR65386775/465915.ts
-#EXTINF:-1 tvg-id="tns" group-title="FIFA WORLD CUP 2026" tvg-logo="https://thfvnext.bing.com/th?id=OIF.aDR7e4QiC%2bZptXmtKEyIFQ&w=201&h=310&c=7&r=0&o=7&cb=thfvnextfalcon2&pid=1.7&rm=3" , TSN 4K
-http://185.160.192.64/live/DAE54374785/DAR65386775/465866.ts
-#EXTINF:-1 tvg-id="sports616" group-title="FIFA WORLD CUP 2026" tvg-logo="https://thfvnext.bing.com/th?id=OIF.aDR7e4QiC%2bZptXmtKEyIFQ&w=201&h=310&c=7&r=0&o=7&cb=thfvnextfalcon2&pid=1.7&rm=3" , NOW SPORTS 4K 616
-http://185.160.192.64/live/DAE54374785/DAR65386775/465865.ts
-#EXTINF:-1 tvg-id="usafox" group-title="FIFA WORLD CUP 2026" tvg-logo="https://thfvnext.bing.com/th?id=OIF.aDR7e4QiC%2bZptXmtKEyIFQ&w=201&h=310&c=7&r=0&o=7&cb=thfvnextfalcon2&pid=1.7&rm=3" , USA | FOX 4K
-http://185.160.192.64/live/DAE54374785/DAR65386775/465858.ts
-#EXTINF:-1 tvg-id="usafoxsports1" group-title="FIFA WORLD CUP 2026" tvg-logo="https://thfvnext.bing.com/th?id=OIF.aDR7e4QiC%2bZptXmtKEyIFQ&w=201&h=310&c=7&r=0&o=7&cb=thfvnextfalcon2&pid=1.7&rm=3" , USA | FOX SPORTS 1 4K
-http://185.160.192.64/live/DAE54374785/DAR65386775/465857.ts
-#EXTINF:-1 tvg-id="clarotv" group-title="FIFA WORLD CUP 2026" tvg-logo="https://thfvnext.bing.com/th?id=OIF.aDR7e4QiC%2bZptXmtKEyIFQ&w=201&h=310&c=7&r=0&o=7&cb=thfvnextfalcon2&pid=1.7&rm=3" , BR | CLARO TV+ 4K
-http://185.160.192.64/live/DAE54374785/DAR65386775/465801.ts
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv1.png" , VTV1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
