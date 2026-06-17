@@ -1,3 +1,32 @@
+#EXTM3U url-tvg="https://vnepg.site/epg.xml.gz"
+
+#EXTINF:-1 tvg-id="vtv3hd" group-title="FIFA WORLD CUP 2026" tvg-logo="https://thfvnext.bing.com/th?id=OIF.aDR7e4QiC%2bZptXmtKEyIFQ&w=201&h=310&c=7&r=0&o=7&cb=thfvnextfalcon2&pid=1.7&rm=3" , VTV3 HD ( Độ Trễ Thấp 2 )
+http://42.1.99.192:8080/live/vtv3.flv
+#EXTINF:-1 tvg-id="vtv6" group-title="FIFA WORLD CUP 2026" tvg-logo="https://thfvnext.bing.com/th?id=OIF.aDR7e4QiC%2bZptXmtKEyIFQ&w=201&h=310&c=7&r=0&o=7&cb=thfvnextfalcon2&pid=1.7&rm=3" , VTV6 ( Độ Trễ Thấp 2 )
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+http://42.1.99.192:8080/live/vtv6.flv
+#EXTINF:-1 tvg-id="vtv10" group-title="FIFA WORLD CUP 2026" tvg-logo="https://thfvnext.bing.com/th?id=OIF.aDR7e4QiC%2bZptXmtKEyIFQ&w=201&h=310&c=7&r=0&o=7&cb=thfvnextfalcon2&pid=1.7&rm=3" , VTV10 HD ( Độ Trễ Thấp 2 )
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+http://42.1.99.192:8080/live/vtv10.flv
+#EXTINF:-1 tvg-id="m6" group-title="FIFA WORLD CUP 2026" tvg-logo="https://thfvnext.bing.com/th?id=OIF.aDR7e4QiC%2bZptXmtKEyIFQ&w=201&h=310&c=7&r=0&o=7&cb=thfvnextfalcon2&pid=1.7&rm=3" , M6 4K
+http://185.160.192.64/live/DAE54374785/DAR65386775/465915.ts
+#EXTINF:-1 tvg-id="tns" group-title="FIFA WORLD CUP 2026" tvg-logo="https://thfvnext.bing.com/th?id=OIF.aDR7e4QiC%2bZptXmtKEyIFQ&w=201&h=310&c=7&r=0&o=7&cb=thfvnextfalcon2&pid=1.7&rm=3" , TSN 4K
+http://185.160.192.64/live/DAE54374785/DAR65386775/465866.ts
+#EXTINF:-1 tvg-id="sports616" group-title="FIFA WORLD CUP 2026" tvg-logo="https://thfvnext.bing.com/th?id=OIF.aDR7e4QiC%2bZptXmtKEyIFQ&w=201&h=310&c=7&r=0&o=7&cb=thfvnextfalcon2&pid=1.7&rm=3" , NOW SPORTS 4K 616
+http://185.160.192.64/live/DAE54374785/DAR65386775/465865.ts
+#EXTINF:-1 tvg-id="sports617" group-title="FIFA WORLD CUP 2026" tvg-logo="https://thfvnext.bing.com/th?id=OIF.aDR7e4QiC%2bZptXmtKEyIFQ&w=201&h=310&c=7&r=0&o=7&cb=thfvnextfalcon2&pid=1.7&rm=3" , NOW SPORTS 4K 617
+http://185.160.192.64/live/DAE54374785/DAR65386775/465864.ts
+#EXTINF:-1 tvg-id="usafox" group-title="FIFA WORLD CUP 2026" tvg-logo="https://thfvnext.bing.com/th?id=OIF.aDR7e4QiC%2bZptXmtKEyIFQ&w=201&h=310&c=7&r=0&o=7&cb=thfvnextfalcon2&pid=1.7&rm=3" , USA | FOX 4K
+http://185.160.192.64/live/DAE54374785/DAR65386775/465858.ts
+#EXTINF:-1 tvg-id="usafoxsports1" group-title="FIFA WORLD CUP 2026" tvg-logo="https://thfvnext.bing.com/th?id=OIF.aDR7e4QiC%2bZptXmtKEyIFQ&w=201&h=310&c=7&r=0&o=7&cb=thfvnextfalcon2&pid=1.7&rm=3" , USA | FOX SPORTS 1 4K
+http://185.160.192.64/live/DAE54374785/DAR65386775/465857.ts
+#EXTINF:-1 tvg-id="fussballtv1" group-title="FIFA WORLD CUP 2026" tvg-logo="https://thfvnext.bing.com/th?id=OIF.aDR7e4QiC%2bZptXmtKEyIFQ&w=201&h=310&c=7&r=0&o=7&cb=thfvnextfalcon2&pid=1.7&rm=3" , DE | FUSSBALL.TV 1 2K
+http://185.160.192.64/live/DAE54374785/DAR65386775/465824.ts
+#EXTINF:-1 tvg-id="fussballtv2" group-title="FIFA WORLD CUP 2026" tvg-logo="https://thfvnext.bing.com/th?id=OIF.aDR7e4QiC%2bZptXmtKEyIFQ&w=201&h=310&c=7&r=0&o=7&cb=thfvnextfalcon2&pid=1.7&rm=3" , DE | FUSSBALL.TV 2 2K
+http://185.160.192.64/live/DAE54374785/DAR65386775/465821.ts
+#EXTINF:-1 tvg-id="clarotv" group-title="FIFA WORLD CUP 2026" tvg-logo="https://thfvnext.bing.com/th?id=OIF.aDR7e4QiC%2bZptXmtKEyIFQ&w=201&h=310&c=7&r=0&o=7&cb=thfvnextfalcon2&pid=1.7&rm=3" , BR | CLARO TV+ 4K
+http://185.160.192.64/live/DAE54374785/DAR65386775/465801.ts
+
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv1.png" , VTV1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
 https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
