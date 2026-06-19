@@ -1,19 +1,3 @@
-#EXTINF:-1 tvg-id="vtv2" group-title="FIFA WORLD CUP 2026" tvg-logo="https://thfvnext.bing.com/th?id=OIF.aDR7e4QiC%2bZptXmtKEyIFQ&w=201&h=310&c=7&r=0&o=7&cb=thfvnextfalcon2&pid=1.7&rm=3" , VTV2 HD ( Độ Trễ Thấp 2 )
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://42.1.99.192:8080/live/vtv2.flv
-#EXTINF:-1 tvg-id="vtv3" group-title="FIFA WORLD CUP 2026" tvg-logo="https://thfvnext.bing.com/th?id=OIF.aDR7e4QiC%2bZptXmtKEyIFQ&w=201&h=310&c=7&r=0&o=7&cb=thfvnextfalcon2&pid=1.7&rm=3" , VTV3 HD ( Độ Trễ Thấp 2 )
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://42.1.99.192:8080/live/vtv3.flv
-#EXTINF:-1 tvg-id="vtv6" group-title="FIFA WORLD CUP 2026" tvg-logo="https://thfvnext.bing.com/th?id=OIF.aDR7e4QiC%2bZptXmtKEyIFQ&w=201&h=310&c=7&r=0&o=7&cb=thfvnextfalcon2&pid=1.7&rm=3" , VTV6 ( Độ Trễ Thấp 2 )
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://42.1.99.192:8080/live/vtv6.flv
-#EXTINF:-1 tvg-id="vtv7" group-title="FIFA WORLD CUP 2026" tvg-logo="https://thfvnext.bing.com/th?id=OIF.aDR7e4QiC%2bZptXmtKEyIFQ&w=201&h=310&c=7&r=0&o=7&cb=thfvnextfalcon2&pid=1.7&rm=3" , VTV7 HD ( Độ Trễ Thấp 2 )
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://42.1.99.192:8080/live/vtv7.flv
-#EXTINF:-1 tvg-id="vtv10" group-title="FIFA WORLD CUP 2026" tvg-logo="https://thfvnext.bing.com/th?id=OIF.aDR7e4QiC%2bZptXmtKEyIFQ&w=201&h=310&c=7&r=0&o=7&cb=thfvnextfalcon2&pid=1.7&rm=3" , VTV10 HD ( Độ Trễ Thấp 2 )
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://42.1.99.192:8080/live/vtv10.flv
-
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv1.png" , VTV1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
 https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
@@ -53,15 +37,23 @@ https://live.fptplay53.net/live/media/vtv5tn/live-hls-avc/vtv5tn-avc1_4000000=10
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="http://vietanh18h1.duckdns.org/ic/vietnamtoday.png",VietNam Today
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/QztqOe0.png",ANTV HD
-https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN HD
+
+#EXTINF:-1 tvg-id="antv-hd" group-title="Địa Phương" tvg-logo="https://freem3u.xyz/static/images/thietyeu/antv.png", ANTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://qpvn.vn/live/qpvn/1080p.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/Je3K25E.png",HanoiTV1 HD
-https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/playlist.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/szivqh2.png",HanoiTV2 HD
-rtp://@239.12.252.14:5000
+https://live-a.fptplay53.net/live/media/antv/live-hls-avc/antv-avc1_4000000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1 tvg-id="qpvn-hd" group-title="Địa Phương" tvg-logo="https://freem3u.xyz/static/images/thietyeu/qpvn.png", QPVN HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://vips-livecdn.fptplay.net/live/media/quocphongvn/live-hls-avc/quocphongvn-avc1_4000000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1 tvg-id="hanoi1" group-title="Địa Phương" tvg-logo="https://freem3u.xyz/static/images/diaphuong/hanoi1.png", HanoiTV1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist.m3u8
+#https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/playlist.m3u8
+#https://liveh34.vtvprime.vn/hls/HANOI1TV/index.m3u8
+#EXTINF:-1 tvg-id="hanoi2" group-title="Địa Phương" tvg-logo="https://freem3u.xyz/static/images/diaphuong/hanoi2.png", HanoiTV2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/playlist.m3u8
+#https://live.fptplay53.net/fnxch2/hntv2_abr.smil/chunklist.m3u8
+#https://cloudstreamhntv.tek4tv.vn/events/HN2/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/iq9JLb9.png",TH Hải Phòng 1
 https://live.mediatech.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/ui0sjEz.png",TH Hải Phòng 3
