@@ -112,11 +112,14 @@ https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/ZKV1ok2.png",TH Cà Mau
 https://live.fptplay53.net/epzsd1/camau_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://canthotv.vn/wp-content/uploads/2025/09/Logo-BAO-PTHT-CAN-THO-WEB-1.png",TH Cần Thơ 1
-https://live.fptplay53.net/epzsd1/cantho_hls.smil/chunklist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/epzhd2/cantho01_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://canthotv.vn/wp-content/uploads/2025/09/Logo-BAO-PTHT-CAN-THO-WEB-1.png",TH Cần Thơ 2
-https://live.fptplay53.net/epzsd1/cantho02_vhls.smil/chunklist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/epzhd2/cantho02_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://canthotv.vn/wp-content/uploads/2025/09/Logo-BAO-PTHT-CAN-THO-WEB-1.png",TH Cần Thơ 3
-https://live.fptplay53.net/epzsd1/cantho03_hls.smil/chunklist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/epzsd1/cantho03_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/DCLUAqZ.png",TH Đồng Nai 1
 http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/8qlDA5N.png",TH Đồng Nai 2
