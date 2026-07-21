@@ -153,19 +153,22 @@ https://live.fptplay53.net/epzsd1/quangtri_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="htv1" group-title="🇻🇳| HTV" tvg-logo="https://vietanhtv.id.vn/logo/htv1.png", HTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-https://vpsttt.vietanhtv.top/htv/htv.php?id=2631
+https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv2hd" group-title="🇻🇳| HTV" tvg-logo="https://vietanhtv.id.vn/logo/htv2.png", HTV2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-https://vpsttt.vietanhtv.top/vieon/vieon.php?id=vie-channel-htv2-hd
+https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htv3" group-title="🇻🇳| HTV" tvg-logo="https://vietanhtv.id.vn/logo/htv3.png", HTV3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-https://vpsttt.vietanhtv.top/htv/htv.php?id=2535
+https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="htvkey" group-title="🇻🇳| HTV" tvg-logo="https://vietanhtv.id.vn/logo/htvkey.png", HTV Key
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv7hd" group-title="🇻🇳| HTV" tvg-logo="https://vietanhtv.id.vn/logo/htv7.png", HTV7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-https://vpsttt.vietanhtv.top/htv/htv.php?id=256
+https://live.fptplay53.net/epzhd1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htv9hd" group-title="🇻🇳| HTV" tvg-logo="https://vietanhtv.id.vn/logo/htv9.png", HTV9 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-https://vpsttt.vietanhtv.top/htv/htv.php?id=2667
+https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-logo="https://img-ali1.tv360.vn/image1/2023/04/03/16/1680514594557/ab2557f0b015_640_360.png" group-title="🇻🇳| HTV",HTV Thể Thao
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_23/1600823449894/0834e6a36f71_640_360.png" group-title="🇻🇳| HTV",HTVC Ca Nhạc
