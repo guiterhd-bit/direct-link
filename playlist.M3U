@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-id="epl" group-title="EPL - Ngoại Hạng Anh" tvg-logo="https://raw.githubusercontent.com/guiterhd-bit/mihdtv/refs/heads/main/1001615220.png", EPL 01
+#EXTINF:-1 tvg-id="epl" group-title="EPL - Ngoại Hạng Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/f/f2/Premier_League_Logo.svg/960px-Premier_League_Logo.svg.png", EPL 01
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
