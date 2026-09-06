@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-id="epl" group-title="EPL - Ngoại Hạng Anh" tvg-logo="https://tudienwiki.com/wp-content/uploads/2016/11/premier-league.jpg", EPL 01
+#EXTINF:-1 tvg-id="epl" group-title="EPL - Ngoại Hạng Anh" tvg-logo="https://github.com/guiterhd-bit/mihdtv/blob/main/file_00000000f2e08211b7b700806501b0c2.png", EPL 01
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
