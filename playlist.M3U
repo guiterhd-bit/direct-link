@@ -242,7 +242,7 @@ https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/sex/cleankey.php?id=tv360173&token=57a46a3b71a104613da0c2e86dcb523f
-https://tv.vietanhtv.top/tv360/tv360.php?id=173&expires=1789912401&token=46fdefe1a2bb93b6359f9c123beaaae2
+https://tv.vietanhtv.top/tv360/tv360.php?id=173&expires=1789913454&token=7e6f253039df887536e6b5a2cfb70f73
 
 #EXTINF:-1 tvg-id="onsportsplus" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onsportscongmoi1.jpg", ON SPORTS+ 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
