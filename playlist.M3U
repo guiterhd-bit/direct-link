@@ -265,12 +265,12 @@ https://tv.vietanhtv.top/tv360/tv360.php?id=174&expires=1790354896&token=9445a0f
 #KODIPROP:inputstream=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/sex/cleankey.php?id=tv360170&token=57a46a3b71a104613da0c2e86dcb523f
-https://tv.vietanhtv.top/tv360/tv360.php?id=170&expires=1789913454&token=976a774da3857ba6e467f6b41099dce5
+#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/sex/cleankey.php?id=tv360170&token=dfab61896d834888cca64e18c787e0eb
+https://tv.vietanhtv.top/tv360/tv360.php?id=170&expires=1790354896&token=5fab11b5a033055774f37d14f29b2cc4
 
 #EXTINF:-1 tvg-id="ongolf" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/Logo_ONGOLF_150x903_1675158871.webp", ON GOLF 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tv.vietanhtv.top/tv360/tv360.php?id=169&expires=1789913811&token=45bb630228e4baa989b0432b39264fc0
+https://tv.vietanhtv.top/tv360/tv360.php?id=169&expires=1790354896&token=c24251ac118bf2a8251244559d3c83f3
 
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab" tvg-logo="https://vietanhtv.id.vn/logo/viegiaitri.png", ON Vie Giải Trí
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
