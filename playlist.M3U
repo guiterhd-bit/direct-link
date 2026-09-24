@@ -257,8 +257,8 @@ https://tv.vietanhtv.top/tv360/tv360.php?id=183&expires=1790354896&token=bed7c38
 #KODIPROP:inputstream=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/sex/cleankey.php?id=tv360174&token=57a46a3b71a104613da0c2e86dcb523f
-https://tv.vietanhtv.top/tv360/tv360.php?id=174&expires=1789913454&token=698214d3e6bf4a4de9f6e43d141b1dee
+#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/sex/cleankey.php?id=tv360174&token=dfab61896d834888cca64e18c787e0eb
+https://tv.vietanhtv.top/tv360/tv360.php?id=174&expires=1790354896&token=9445a0fe8784a41f0a7ffeb27e7ddfe8
 
 #EXTINF:-1 tvg-id="onsportsnews" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/Logo_ONSPORTSNEWS_150x904_1675158858.webp", ON SPORTS NEWS 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
