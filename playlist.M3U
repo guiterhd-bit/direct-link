@@ -249,8 +249,8 @@ https://tv.vietanhtv.top/tv360/tv360.php?id=173&expires=1790354896&token=8aa29e6
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/sex/cleankey.php?id=tv360183&token=57a46a3b71a104613da0c2e86dcb523f
-https://tv.vietanhtv.top/tv360/tv360.php?id=183&expires=1789913454&token=4adcec261e3296f0278f90be0d380333
+#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/sex/cleankey.php?id=tv360183&token=dfab61896d834888cca64e18c787e0eb
+https://tv.vietanhtv.top/tv360/tv360.php?id=183&expires=1790354896&token=bed7c3821a6c38b7f21d23f48bef3666
 
 #EXTINF:-1 tvg-id="onfootball" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/_ootball_-_opyright_by_cab_logo_202212.jpg", ON FOOTBALL
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
