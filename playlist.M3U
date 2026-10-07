@@ -20,7 +20,7 @@ https://vips-livecdn.fptplay.net/live/media/vtv3/live247-hls-avc/index.m3u8
 https://vips-livecdn.fptplay.net/live/media/vtv4/live247-hls-avc/vtv4-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/guiterhd-bit/mihdtv/refs/heads/main/vtv5.png" , VTV5 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://pop7-ec1-ateme.tv360.vn/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkxMjk5ODc4Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy8xOTQ0L0hMU19DbGVhbl9NSExfMnMvIiwic2Vzc2lvbl9jZG5faWQiOiI2YWFiMDRlNDk3YTI2ZGI5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xNzIuMjQuMTY4LjE2NCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNDgiLCJzb3VyY2VzIjpbMjAyLDQ2Miw0NjUsNDY5XX0=.ELUvrysBHPKOzGciudD_Iq60ke0wSYM5k7M-RMhG3IbYeofGAkrLKQ9xRtmLQozrLKfWUndO0Ky9oXdkQlKTYw==/live/eds/1944/HLS_Clean_MHL_2s/1944-avc1_6299968=10009-mp4a_196800_eng=20001.m3u8
+https://vips-livecdn.fptplay.net/live/media/vtv5/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/guiterhd-bit/mihdtv/refs/heads/main/vtv6.png" , VTV6 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/vtv6-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
@@ -45,7 +45,6 @@ https://pop7-ec2-ateme.tv360.vn/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHA
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/guiterhd-bit/mihdtv/refs/heads/main/vietnamtoday.png",VietNam Today
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vips-livecdn.fptplay.net/live/media/vietnamtoday/live-hls-avc/vietnamtoday-avc1_4000000=10000-mp4a_140800_vie=20000.m3u8
-
 
 #EXTINF:-1 tvg-id="hanoi1" group-title="🇻🇳| Địa phương" tvg-logo="https://freem3u.xyz/static/images/diaphuong/hanoi1.png", HanoiTV1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -82,7 +81,7 @@ https://live.fptplay53.net/live/media/vinhlong3/live247-hls-avc/vinhlong3-avc1_5
 https://live.fptplay53.net/epzhd2/vinhlong4-hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="thvl5hd" group-title="🇻🇳| Địa phương" tvg-logo="https://freem3u.xyz/static/images/diaphuong/vinhlong5.png", THVL5 | TH Vĩnh Long
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.fptplay53.net/epzhd2/vinhlong5hd_vhls.smil/chunklist_b5000000.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=91
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/sPyR9t6.png",TH Bắc Ninh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxsd1/bacninh01_hls.smil/chunklist_b2500000.m3u8
@@ -112,7 +111,7 @@ https://live.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist_b2500000.m3u8
 https://live.fptplay53.net/fnxsd1/sonla_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/Fse70QS.png",TH Thái Nguyên
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.fptplay53.net/fnxsd1/thainguyen_hls.smil/chunklist_b2500000.m3u8
+https://streaming.thainguyentv.vn/hls/livestream.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/pL4NqYO.png",TH Ninh Bình
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxsd1/ninhbinh_hls.smil/chunklist_b2500000.m3u8
@@ -170,7 +169,7 @@ https://live.fptplay53.net/epzsd1/lamdong02_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/iaexSxL.png",TH Lâm Đồng 3
 https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://static.wikia.nocookie.net/logos/images/3/38/TN_TayNinhTV_logo.png/revision/latest?cb=20251224141706&path-prefix=vi",TH Tây Ninh 1
-https://live.mediatech.vn/live/2851dc2c9af68834814a89e61db0faee561/playlist.m3u8
+https://live-hq.evgcdn.net/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://github.com/dnmnhat/vietnam-logo-tivi/blob/master/100b/3-danang1.png?raw=true",DaNangTV1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzsd1/danang1_hls.smil/chunklist_b2500000.m3u8
@@ -343,14 +342,11 @@ https://liveatmvng.vtvprime.vn/live/data8/SCTV1/Live_DASHDRM/SCTV1.mpd
 
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv2.png", SCTV2 HD - TODAY TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tv.vietanhtv.top/tv360/tv360.php?id=201&expires=1790907303&token=81ad8c7b8a748ef57c8b7738d1ea2eb1
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv2/master.m3u8
 
 #EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv3.png", SCTV3 - SEE TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/sctv/cleankey.php?id=sctv3
-https://liveatmvng.vtvprime.vn/live/data8/SCTV3/Live_DASHDRM/SCTV3.mpd
+https://vtvgolive-sctvdrm.vtvdigital.vn/bsod999cuteptgyoutuber/1234567890/manifest/sctv3/master.m3u8
 
 #EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv4.png", SCTV4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
