@@ -15,7 +15,7 @@ https://tv.vietanhtv.top/tv360/tv360.php?id=2458&expires=1792092406&token=646297
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/tivi/cleankey.php?id=tv360plus5&token=a65645b1aa521305f07c577dc6a4c622
-https://tv.vietanhtv.top/tv360/tv360.php?id=9867&expires=1791982166&token=61d986ae31abe648b10b6dfb0acc9132
+https://tv.vietanhtv.top/tv360/tv360.php?id=9867&expires=1792092406&token=7895ef9eb4eeb40c70fd0baf33768819
 #EXTINF:-1 group-title="Thể Thao" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 6
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
