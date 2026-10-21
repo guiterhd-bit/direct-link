@@ -51,25 +51,7 @@ https://livevliatmcdw.seenow.vn/live/data8/SKSS1/Live_DASHDRM/SKSS1.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/tivi/cleankey.php?id=tv360plus4&token=2faa1dc03954bafc01fb50f67aabddf9
-https://tv.vietanhtv.top/tv360/tv360.php?id=2458&expires=1792158322&token=8bf76d6866265e60c8b44882e8ee8b63
-#EXTINF:-1 tvg-id="tv360plus5" group-title="Thể Thao" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus5.png", TV360+5
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/tivi/cleankey.php?id=tv360plus5&token=2faa1dc03954bafc01fb50f67aabddf9
-https://tv.vietanhtv.top/tv360/tv360.php?id=9867&expires=1792158322&token=626fe9b255d0888eefd844725d555d22
-#EXTINF:-1 tvg-id="tv360plus6" group-title="Thể Thao" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus6.png", TV360+6
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/tivi/cleankey.php?id=tv360plus6&token=2faa1dc03954bafc01fb50f67aabddf9
-https://tv.vietanhtv.top/tv360/tv360.php?id=9868&expires=1792158322&token=cf691cb49f878ce17049377fc6f35d5a
-#EXTINF:-1 tvg-id="tv360plus7" group-title="Thể Thao" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus7.png", TV360+7
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/tivi/cleankey.php?id=tv360plus7&token=2faa1dc03954bafc01fb50f67aabddf9
-https://tv.vietanhtv.top/tv360/tv360.php?id=9869&expires=1792158322&token=dafdb59119ee163cdbb1425e2f0304ae
+https://tv.vietanhtv.top/tv360/tv360.php?id=2458&expires=1792690428&token=9aecb0bc5335338e8ce80fc1e7368fb6
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="🇻🇳| VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/09/10/15/1789027955396/02dce36fc3ff_480_270.png" , VTV1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
