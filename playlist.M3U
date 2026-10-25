@@ -46,12 +46,12 @@ https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT10/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca0576ec419f490789860894bb50c977:25d2e703eee38718240e7038d1908fef
 https://livevliatmcdw.seenow.vn/live/data8/SKSS1/Live_DASHDRM/SKSS1.mpd
-#EXTINF:-1 tvg-id="tv360plus4" group-title="Thể Thao" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus4.png", TV360+4
+#EXTINF:-1 tvg-id="tv360plus5" group-title="Thể Thao" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus5.png", TV360+5
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/tivi/cleankey.php?id=tv360plus4&token=2faa1dc03954bafc01fb50f67aabddf9
-https://tv.vietanhtv.top/tv360/tv360.php?id=2458&expires=1792690428&token=9aecb0bc5335338e8ce80fc1e7368fb6
+#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/tivi/cleankey.php?id=tv360plus5&token=d757d5fed1d794e9aef43361dee11fd6
+https://tv.vietanhtv.top/tv360/tv360.php?id=9867&expires=1793025965&token=3cd50962cca9b8b9af007cbac00fa08e
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="🇻🇳| VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/09/10/15/1789027955396/02dce36fc3ff_480_270.png" , VTV1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
