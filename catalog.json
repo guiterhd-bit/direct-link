@@ -1,0 +1,13 @@
+{
+  "apps": [
+    {
+      "name": "Ứng dụng mẫu",
+      "icon": "🎬",
+      "category": "Giải trí",
+      "version": "1.0",
+      "size": "20 MB",
+      "url": "https://example.com/ung-dung-mau.apk",
+      "desc": "Thay mục này bằng ứng dụng thật của bạn."
+    }
+  ]
+}
