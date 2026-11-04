@@ -1,0 +1,91 @@
+{
+  "id": "bunchatv",
+  "url": "https://bit.ly/buncha2",
+  "name": "Bún Chả TV",
+  "color": "#2563EB",
+  "description": "Bún Chả TV Thể thao trực tiếp, xem thể thao online link HoiQuan TV nhanh nhất",
+  "image": {
+    "url": "https://kaytee1012.github.io/buncha_logo.png"
+  },
+  "groups": [
+    {
+      "id": "related",
+      "name": "Nguồn lỗi rồi, chuyển qua các nguồn sau nhé",
+      "display": "horizontal",
+      "grid_number": 1,
+      "groups": [
+        {
+          "id": "buncha",
+          "name": "Bún Chả TV",
+          "display": "text-below",
+          "image": {
+            "url": "https://kaytee1012.github.io/buncha_logo.png",
+            "height": 100,
+            "width": 100,
+            "display": "cover"
+          },
+          "remote_data": {
+            "url": "monplayer://monplayer.org?link=https%3A%2F%2Ftinyurl.com/buncha2&type=provider",
+            "external": true
+          }
+        },
+        {
+          "id": "ophim",
+          "name": "Ophim",
+          "display": "text-below",
+          "image": {
+            "url": "https://op.hdpe.pro/images/logo.png",
+            "height": 100,
+            "width": 100,
+            "display": "cover"
+          },
+          "remote_data": {
+            "url": "monplayer://monplayer.org?link=https%3A%2F%2Fmedia.hth4nh.eu.org/ophim&type=provider",
+            "external": true
+          }
+        },
+        {
+          "id": "kkphim",
+          "name": "Kkphim",
+          "display": "text-below",
+          "image": {
+            "url": "https://kk.hdpe.pro/images/logo.png",
+            "height": 100,
+            "width": 100,
+            "display": "cover"
+          },
+          "remote_data": {
+            "url": "monplayer://monplayer.org?link=https%3A%2F%2Fmedia.hth4nh.eu.org/kkphim&type=provider",
+            "external": true
+          }
+        },
+        {
+          "id": "nguonc",
+          "name": "NguonC",
+          "display": "text-below",
+          "image": {
+            "url": "https://nc.hdpe.pro/images/logo.png",
+            "height": 100,
+            "width": 100,
+            "display": "cover"
+          },
+          "remote_data": {
+            "url": "monplayer://monplayer.org?link=https%3A%2F%2Fmedia.hth4nh.eu.org/nguonc&type=provider",
+            "external": true
+          }
+        }
+      ]
+    }
+  ],
+  "notice": {
+    "id": "notice",
+    "link": "https://t.me/xemgicungshare",
+    "icon": "http://tt.8share.pro/assets/telegram_sp.png",
+    "closeable": true
+  },
+  "option": {
+    "save_history": false,
+    "save_search_history": false,
+    "save_wishlist": false
+  }
+}
