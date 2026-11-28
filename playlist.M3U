@@ -14,7 +14,7 @@ https://vmttv.dpdns.org/tv360/?id=vtv3
 #EXTINF:-1 tvg-id="vtv4hd" group-title="🇻🇳| VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/09/10/15/1789028176727/7330e5a3b2d9_480_270.png" , VTV4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://vmttv.dpdns.org/tv360/?id=vtv4
+http://hoatv001.ddns.net/iptv/admin.php?stream=98b5766d564fe890750f30a775aa75f6&token=f737d30428363371833a93ece0f4261e
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🇻🇳| VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/09/10/15/1789028197435/9250c116a95a_480_270.png" , VTV5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0
 #KODIPROP:inputstream.adaptive.manifest_type=hls
